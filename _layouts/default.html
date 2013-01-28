@@ -19,16 +19,16 @@
                 text-transform: lowercase;
             }
             .outer {
+                -moz-box-sizing:border-box;
+                box-sizing:border-box;
                 width:480px;
                 min-height:100%;
                 margin:0 auto;
-                background:#fff;
-                box-shadow:0 0 10px #aaa;
-            }
-            .inner {
                 border-left:1px solid #ccc;
                 border-right:1px solid #ccc;
                 padding:1em 2em;
+                background:#fff;
+                box-shadow:0 0 10px #aaa;
             }
             .shroom {
                 text-align:center;
@@ -40,17 +40,15 @@
     </head>
     <body>
         <div class="outer">
-            <div class="inner">
-                <header>
-                    <div class="shroom"><img src="images/shroom.png" alt="shroom" /></div>
-                </header>
-                <div class="content">
-                    {{ content }}
-                </div>
-                <footer>
-                    <p class="copyright"><small>Copyright &copy; {{ site.time | date: '%Y' }} John Peloquin. All rights reserved.</small></p>
-                </footer>
+            <header>
+                <div class="shroom"><img src="images/shroom.png" alt="shroom" /></div>
+            </header>
+            <div class="content">
+                {{ content }}
             </div>
+            <footer>
+                <p class="copyright"><small>Copyright &copy; {{ site.time | date: '%Y' }} John Peloquin. All rights reserved.</small></p>
+            </footer>
         </div>
     </body>
 </html>
