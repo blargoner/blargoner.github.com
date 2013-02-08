@@ -3,9 +3,7 @@ layout: default
 title: blargon
 ---
 
-Hello, visitor. My name is John Peloquin. I like to think of myself as a character clock, sitting on a mushroom, pondering life.
-
-I live in the [East Village][nyc] of Manhattan and enjoy [making][video.stmarks] [videos][video.rockefeller] around the city.
+Hello, visitor. My name is John Peloquin. I live in the [East Village][nyc] of Manhattan where I enjoy [making][video.stmarks] [videos][video.rockefeller] around the city. Sometimes I am mistaken for a pelican.
 
 ## Software
 
