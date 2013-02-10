@@ -3,7 +3,7 @@ layout: default
 title: blargon
 ---
 
-Hello, visitor. My name is John Peloquin. I live in the [East Village][nyc] of Manhattan where I enjoy [making][video.stmarks] [videos][video.rockefeller] around the city. Sometimes I am mistaken for a pelican.
+Hello, visitor. My name is John Peloquin. I live in the [East Village][nyc] of Manhattan where I enjoy [making][video.rockefeller] [videos][video.nemo] around the city. Sometimes I am mistaken for a pelican.
 
 ## Software
 
@@ -42,8 +42,8 @@ Once upon a time I thought I wanted to be a professional philosopher. Here are s
 
 [nyc]: http://maps.google.com/maps?q=east+village+nyc
 
-[video.stmarks]: http://www.youtube.com/watch?v=w_9D6oF3bOM
 [video.rockefeller]: http://www.youtube.com/watch?v=nZR7W83JQ2A
+[video.nemo]: http://www.youtube.com/watch?v=qyZ06gAPe1c
 
 [books.properf]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118487524.html
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
