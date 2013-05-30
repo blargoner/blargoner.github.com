@@ -3,11 +3,11 @@ layout: default
 title: blargon
 ---
 
-Hello, visitor. My name is John Peloquin. I live in the [East Village][nyc] of Manhattan where I enjoy [making][video.rockefeller] [videos][video.nemo] around the city. Sometimes I am mistaken for a pelican.
+Hello, visitor. My name is John Peloquin. I live in the East Village of Manhattan where I enjoy eating [food][nyc] and listening to garbage trucks. Sometimes I am mistaken for a pelican.
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy front-end web development. I also do freelance technical editing. Here are some books I edited:
+I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include some internet [speed][speedy] [test][quicky] tools and a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch. I also do freelance technical editing. Here are some books I edited:
 
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
 - [Professional JavaScript for Web Developers, 3rd edition][books.projs] by Nicholas Zakas (2012)
@@ -40,10 +40,12 @@ Once upon a time I thought I wanted to be a professional philosopher. Here are s
 [ucb]: http://math.berkeley.edu/
 [usc]: http://dornsife.usc.edu/phil/
 
-[nyc]: http://maps.google.com/maps?q=east+village+nyc
+[nyc]: nyc.html
 
-[video.rockefeller]: http://www.youtube.com/watch?v=nZR7W83JQ2A
-[video.nemo]: http://www.youtube.com/watch?v=qyZ06gAPe1c
+[undefined.js]: http://undefinedjs.org/
+[speedy]: http://github.com/blargoner/speedy
+[quicky]: http://github.com/blargoner/quicky
+[cloudwatcher]: http://github.com/blargoner/cloudwatcher
 
 [books.properf]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118487524.html
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
