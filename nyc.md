@@ -15,8 +15,7 @@ Below is some food that I like in the city, mostly around the East Village.
 - south brooklyn pizza (margherita)
 - motorino (pizza al uovo)
 - hearth
-- i coppi
-- 
+- i coppi (temporarily closed)
 
 ## asian
 - momo sushi shack
@@ -27,8 +26,12 @@ Below is some food that I like in the city, mostly around the East Village.
 ## indian
 - banjara
 
+## middle eastern
+- mamoun's (falafel)
+
 ## mexican
 - la palapa
+- downtown bakery
 - cafe frida
 
 ## french
