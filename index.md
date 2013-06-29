@@ -34,6 +34,10 @@ Once upon a time I thought I wanted to be a professional philosopher. Here are s
 - [Tarski on Truth][phil.tarski]
 - [Frege on Existence][phil.frege]
 
+Here is another paper I wrote randomly, before USC:
+
+- [Omniscience and Cosmological Arguments][phil.omniscience]
+
 [spreemo]: http://spreemo.com/
 [github]: http://github.com/blargoner
 [linkedin]: http://linkedin.com/in/jpeloquin
@@ -61,3 +65,4 @@ Once upon a time I thought I wanted to be a professional philosopher. Here are s
 [phil.quine]: papers/phil/quine_conventionalism.pdf
 [phil.tarski]: papers/phil/tarski_truth.pdf
 [phil.frege]: papers/phil/frege_existence.pdf
+[phil.omniscience]: papers/phil/omniscience.pdf
