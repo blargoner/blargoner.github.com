@@ -2,37 +2,40 @@
 layout: default
 title: blargon - nyc
 ---
-Below is some food that I like in the city, mostly around the East Village.
+Below is a random sampling of food that I like in the city, mostly around the East Village.
 
-## american 
-- crif dog (blt, corn dog)
+## american
 - whitman's (burgers)
 - mark (sliders)
 - mighty quinn's (ribs)
-- beecher's (cheese)
+- angelica's kitchen (chili)
+- gingersnap's organic
+- saxon and parole
 
 ## italian
 - south brooklyn pizza (margherita)
 - motorino (pizza al uovo)
 - hearth
+- perbacco
 - i coppi (temporarily closed)
 
 ## asian
 - momo sushi shack
-- wacky wok (sesame chicken)
+- tsampa
 - xe may
+- xi'an
+- otafuku
+- wacky wok
 - thailand cafe
-
-## indian
-- banjara
 
 ## middle eastern
 - mamoun's (falafel)
+- balade
 
 ## mexican
 - la palapa
+- mercadito
 - downtown bakery
-- cafe frida
 
 ## french
 - 26 seats
@@ -43,3 +46,5 @@ Below is some food that I like in the city, mostly around the East Village.
 
 ## dessert
 - veniero 
+- davey's ice cream
+- il laboratorio del gelato
