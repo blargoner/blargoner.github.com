@@ -11,9 +11,12 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - angelica's kitchen (chili)
 - gingersnap's organic
 - saxon and parole
+- barnyard
+- picnic
 
 ## italian
 - south brooklyn pizza (margherita)
+- one twenty two
 - motorino (pizza al uovo)
 - hearth
 - perbacco
@@ -36,6 +39,7 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - la palapa
 - mercadito
 - downtown bakery
+- caravan of dreams (squash)
 
 ## french
 - 26 seats
@@ -47,4 +51,5 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 ## dessert
 - veniero 
 - davey's ice cream
+- van leeuwen artisan ice cream
 - il laboratorio del gelato
