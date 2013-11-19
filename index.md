@@ -17,7 +17,7 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math as an undergraduate at [Berkeley][ucb]. My primary interests are in foundations (set theory, recursion theory, model theory, and the like). Here are some papers I wrote:
+I studied math as an undergraduate at [Berkeley][ucb]. My primary interests are in foundations (set theory, recursion theory, model theory, and the like). Here are some expository papers I wrote:
 
 - [Notes on Mathematics][math.notes] (draft)
 - [A Note on Function Notation][math.functions]
