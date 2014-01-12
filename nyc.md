@@ -9,7 +9,7 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - mark (sliders)
 - mighty quinn's (ribs)
 - angelica's kitchen (chili)
-- gingersnap's organic
+- back forty
 - saxon and parole
 - barnyard
 - picnic
@@ -20,7 +20,6 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - motorino (pizza al uovo)
 - hearth
 - perbacco
-- i coppi (temporarily closed)
 
 ## asian
 - momo sushi shack
@@ -28,10 +27,12 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - xe may
 - xi'an
 - otafuku
-- wacky wok
 - thailand cafe
+- somtum der
 
-## middle eastern
+## mediterranean
+- cafe mogador
+- cafe orlin
 - mamoun's (falafel)
 - balade
 
