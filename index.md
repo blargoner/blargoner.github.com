@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in the East Village of Manhatta
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include some internet [speed][speedy] [test][quicky] tools and a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch. I also do freelance technical editing. Here are some books I edited:
+I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include some internet [speed][speedy] [test][quicky] tools, a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch, and a JavaScript [library][jshue] for Philips Hue. I also do freelance technical editing. Here are some books I edited:
 
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
 - [Professional JavaScript for Web Developers, 3rd edition][books.projs] by Nicholas Zakas (2012)
@@ -50,6 +50,7 @@ Here is another paper I wrote randomly, before USC:
 [speedy]: http://github.com/blargoner/speedy
 [quicky]: http://github.com/blargoner/quicky
 [cloudwatcher]: http://github.com/blargoner/cloudwatcher
+[library]: http://github.com/blargoner/jshue
 
 [books.properf]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118487524.html
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
