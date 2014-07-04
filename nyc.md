@@ -12,8 +12,6 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - back forty
 
 ## italian
-- ~~south brooklyn pizza (margherita)~~
-- ~~one twenty two~~
 - motorino (pizza al uovo)
 - hearth
 - perbacco
