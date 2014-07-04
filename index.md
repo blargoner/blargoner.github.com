@@ -50,7 +50,7 @@ Here is another paper I wrote randomly, before USC:
 [speedy]: http://github.com/blargoner/speedy
 [quicky]: http://github.com/blargoner/quicky
 [cloudwatcher]: http://github.com/blargoner/cloudwatcher
-[library]: http://github.com/blargoner/jshue
+[jshue]: http://github.com/blargoner/jshue
 
 [books.properf]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118487524.html
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
