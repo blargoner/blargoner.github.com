@@ -10,13 +10,10 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - mighty quinn's (ribs)
 - angelica's kitchen (chili)
 - back forty
-- saxon and parole
-- barnyard
-- picnic
 
 ## italian
-- south brooklyn pizza (margherita)
-- one twenty two
+- ~~south brooklyn pizza (margherita)~~
+- ~~one twenty two~~
 - motorino (pizza al uovo)
 - hearth
 - perbacco
@@ -27,23 +24,17 @@ Below is a random sampling of food that I like in the city, mostly around the Ea
 - xe may
 - xi'an
 - otafuku
-- thailand cafe
-- somtum der
 
 ## mediterranean
 - cafe mogador
-- cafe orlin
 - mamoun's (falafel)
 - balade
 
 ## mexican
 - la palapa
+- otto's tacos
+- tacos morelos
 - mercadito
-- downtown bakery
-- caravan of dreams (squash)
-
-## french
-- 26 seats
 
 ## seafood
 - russ and daughters (lox)
