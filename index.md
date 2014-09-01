@@ -3,7 +3,7 @@ layout: default
 title: blargon
 ---
 
-Hello, visitor. My name is John Peloquin. I live in the East Village of Manhattan where I enjoy eating [food][nyc] and listening to garbage trucks. Sometimes I am mistaken for a pelican.
+Hello, visitor. My name is John Peloquin. I live in the East Village of Manhattan where I enjoy eating food and listening to garbage trucks. Sometimes I am mistaken for a pelican.
 
 ## Software
 
@@ -43,8 +43,6 @@ Here is another paper I wrote randomly, before USC:
 [linkedin]: http://linkedin.com/in/jpeloquin
 [ucb]: http://math.berkeley.edu/
 [usc]: http://dornsife.usc.edu/phil/
-
-[nyc]: nyc.html
 
 [undefined.js]: http://undefinedjs.org/
 [speedy]: http://github.com/blargoner/speedy
