@@ -54,10 +54,10 @@ Here is another paper I wrote randomly, before USC:
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
 [books.js24hr]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
 
-[math.notes]: papers/math/notes.pdf
-[math.functions]: papers/math/functions.pdf
-[math.zorn]: papers/math/zorn.pdf
-[math.ehrenfeucht]: papers/math/ehrenfeucht.pdf
+[math.notes]: https://www.sharelatex.com/github/repos/blargoner/math-notes/builds/latest/output.pdf
+[math.functions]: https://www.sharelatex.com/github/repos/blargoner/math-functions/builds/latest/output.pdf
+[math.zorn]: https://www.sharelatex.com/github/repos/blargoner/math-zorn/builds/latest/output.pdf
+[math.ehrenfeucht]: https://www.sharelatex.com/github/repos/blargoner/math-ehrenfeucht/builds/latest/output.pdf
 
 [phil.infinite]: papers/phil/infinite.pdf
 [phil.kripke]: papers/phil/kripke_designation.pdf
