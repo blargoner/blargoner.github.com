@@ -7,8 +7,9 @@ Hello, visitor. My name is John Peloquin. I live in the East Village of Manhatta
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include some internet [speed][speedy] [test][quicky] tools, a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch, and a JavaScript [library][jshue] for Philips Hue. I also do freelance technical editing. Here are some books I edited:
+I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include a JavaScript [library][jshue] for Philips Hue, a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch, and some internet [speed][speedy] [test][quicky] tools. I also do freelance technical editing. Here are some books I edited:
 
+- [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
 - [Professional JavaScript for Web Developers, 3rd edition][books.projs] by Nicholas Zakas (2012)
 - [JavaScript 24-Hour Trainer][books.js24hr] by Jeremy McPeak (2010)
@@ -17,7 +18,7 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math as an undergraduate at [Berkeley][ucb]. My primary interests are in foundations (set theory, recursion theory, model theory, and the like). Here are some expository papers I wrote:
+I studied math as an undergraduate at [Berkeley][ucb]. Recently I have been learning more algebra and analysis. Here are some expository papers I wrote:
 
 - [Notes on Mathematics][math.notes] (draft)
 - [A Note on Function Notation][math.functions]
@@ -34,7 +35,7 @@ Once upon a time I thought I wanted to be a professional philosopher. Here are s
 - [Tarski on Truth][phil.tarski]
 - [Frege on Existence][phil.frege]
 
-Here is another paper I wrote randomly, before USC:
+Here is another random paper I wrote, before USC:
 
 - [Omniscience and Cosmological Arguments][phil.omniscience]
 
@@ -50,6 +51,7 @@ Here is another paper I wrote randomly, before USC:
 [cloudwatcher]: http://github.com/blargoner/cloudwatcher
 [jshue]: http://github.com/blargoner/jshue
 
+[books.reliablejs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
 [books.properf]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118487524.html
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
 [books.js24hr]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
