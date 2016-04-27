@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in the East Village of Manhatta
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include a JavaScript [library][jshue] for Philips Hue, a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch, and some internet [speed][speedy] [test][quicky] tools. I also do freelance technical editing. Here are some books I edited:
+I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include a JavaScript [library][jshue] for Philips Hue and a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch. I also do freelance technical editing. Here are some books I edited:
 
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
@@ -24,6 +24,11 @@ I studied math as an undergraduate at [Berkeley][ucb]. Recently I have been lear
 - [A Note on Function Notation][math.functions]
 - [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
+
+Here are some YouTube videos I made:
+- [The Concept of Finiteness][math.vid.finite]
+- [The Frechet Derivative][math.vid.frechet]
+- [The Cantor-Schroeder-Bernstein Theorem][math.vid.bernstein]
 
 ## Philosophy
 
@@ -46,8 +51,6 @@ Here is another random paper I wrote, before USC:
 [usc]: http://dornsife.usc.edu/phil/
 
 [undefined.js]: http://undefinedjs.org/
-[speedy]: http://github.com/blargoner/speedy
-[quicky]: http://github.com/blargoner/quicky
 [cloudwatcher]: http://github.com/blargoner/cloudwatcher
 [jshue]: http://github.com/blargoner/jshue
 
@@ -60,6 +63,10 @@ Here is another random paper I wrote, before USC:
 [math.functions]: https://www.sharelatex.com/github/repos/blargoner/math-functions/builds/latest/output.pdf
 [math.zorn]: https://www.sharelatex.com/github/repos/blargoner/math-zorn/builds/latest/output.pdf
 [math.ehrenfeucht]: https://www.sharelatex.com/github/repos/blargoner/math-ehrenfeucht/builds/latest/output.pdf
+
+[math.vid.finite]: https://youtu.be/oqcm5PT-fM8
+[math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
+[math.vid.bernstein]: https://youtu.be/IkoKttTDuxE
 
 [phil.infinite]: papers/phil/infinite.pdf
 [phil.kripke]: papers/phil/kripke_designation.pdf
