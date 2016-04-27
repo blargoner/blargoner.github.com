@@ -26,6 +26,7 @@ I studied math as an undergraduate at [Berkeley][ucb]. Recently I have been lear
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
 
 Here are some YouTube videos I made:
+
 - [The Concept of Finiteness][math.vid.finite]
 - [The Frechet Derivative][math.vid.frechet]
 - [The Cantor-Schroeder-Bernstein Theorem][math.vid.bernstein]
