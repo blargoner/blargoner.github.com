@@ -56,14 +56,14 @@ Here is another random paper I wrote, before USC:
 [jshue]: http://github.com/blargoner/jshue
 
 [books.reliablejs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
-[books.properf]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118487524.html
+[books.properf]: http://shop.oreilly.com/product/9781118487525.do
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
 [books.js24hr]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
 
-[math.notes]: https://www.sharelatex.com/github/repos/blargoner/math-notes/builds/latest/output.pdf
-[math.functions]: https://www.sharelatex.com/github/repos/blargoner/math-functions/builds/latest/output.pdf
-[math.zorn]: https://www.sharelatex.com/github/repos/blargoner/math-zorn/builds/latest/output.pdf
-[math.ehrenfeucht]: https://www.sharelatex.com/github/repos/blargoner/math-ehrenfeucht/builds/latest/output.pdf
+[math.notes]: https://github.com/blargoner/math-notes/blob/master/notes.pdf
+[math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
+[math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
+[math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
 
 [math.vid.finite]: https://youtu.be/oqcm5PT-fM8
 [math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
