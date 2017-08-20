@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in the East Village of Manhatta
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy [front-end web development][undefined.js]. Recent projects include a JavaScript [library][jshue] for Philips Hue and a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch. I also do freelance technical editing. Here are some books I edited:
+I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch. I also do freelance technical editing. Here are some books I edited:
 
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
@@ -51,7 +51,6 @@ Here is another random paper I wrote, before USC:
 [ucb]: http://math.berkeley.edu/
 [usc]: http://dornsife.usc.edu/phil/
 
-[undefined.js]: http://undefinedjs.org/
 [cloudwatcher]: http://github.com/blargoner/cloudwatcher
 [jshue]: http://github.com/blargoner/jshue
 
