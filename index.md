@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in the East Village of Manhatta
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a Google Chrome [extension][cloudwatcher] for Amazon CloudWatch. I also do freelance technical editing. Here are some books I edited:
+I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a toy [implementation][lambda] of the lambda calculus in Haskell. I also do freelance technical editing from time to time. Here are some books I edited:
 
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
@@ -18,9 +18,10 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math as an undergraduate at [Berkeley][ucb]. Recently I have been learning more algebra and analysis. Here are some expository papers I wrote:
+I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore topics that interest me. Here are some expository papers I wrote:
 
-- [Notes on Mathematics][math.notes] (draft)
+- [Explaining Y][math.y]
+- [Notes on Mathematics][math.notes]
 - [A Note on Function Notation][math.functions]
 - [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
@@ -45,20 +46,21 @@ Here is another random paper I wrote, before USC:
 
 - [Omniscience and Cosmological Arguments][phil.omniscience]
 
-[spreemo]: http://spreemo.com/
+[spreemo]: http://spreemohealth.com/
 [github]: http://github.com/blargoner
 [linkedin]: http://linkedin.com/in/jpeloquin
 [ucb]: http://math.berkeley.edu/
 [usc]: http://dornsife.usc.edu/phil/
 
-[cloudwatcher]: http://github.com/blargoner/cloudwatcher
 [jshue]: http://github.com/blargoner/jshue
+[lambda]: http://github.com/blargoner/lambda
 
 [books.reliablejs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
 [books.properf]: http://shop.oreilly.com/product/9781118487525.do
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
 [books.js24hr]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
 
+[math.y]: https://github.com/blargoner/math-y/blob/master/y.pdf
 [math.notes]: https://github.com/blargoner/math-notes/blob/master/notes.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
