@@ -3,7 +3,7 @@ layout: default
 title: blargon
 ---
 
-Hello, visitor. My name is John Peloquin. I live in the East Village of Manhattan where I enjoy eating food and listening to garbage trucks. Sometimes I am mistaken for a pelican.
+Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy eating food and listening to garbage trucks. Sometimes I am mistaken for a pelican.
 
 ## Software
 
