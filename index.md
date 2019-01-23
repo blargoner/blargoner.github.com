@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy 
 
 ## Software
 
-I write software for [work][spreemo] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a toy [implementation][lambda] of the lambda calculus in Haskell. I also do freelance technical editing from time to time. Here are some books I edited:
+I write software for [work][covera] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a toy [implementation][lambda] of the lambda calculus in Haskell. I also do freelance technical editing from time to time. Here are some books I edited:
 
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
@@ -46,7 +46,7 @@ Here is another random paper I wrote, before USC:
 
 - [Omniscience and Cosmological Arguments][phil.omniscience]
 
-[spreemo]: http://spreemohealth.com/
+[covera]: http://coverahealth.com/
 [github]: http://github.com/blargoner
 [linkedin]: http://linkedin.com/in/jpeloquin
 [ucb]: http://math.berkeley.edu/
