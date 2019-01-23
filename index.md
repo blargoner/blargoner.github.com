@@ -28,6 +28,7 @@ I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore top
 
 Here are some YouTube videos I made:
 
+- [Hyperreal Numbers][math.vid.hyperreals]
 - [The Concept of Finiteness][math.vid.finite]
 - [The Frechet Derivative][math.vid.frechet]
 - [The Cantor-Schroeder-Bernstein Theorem][math.vid.bernstein]
@@ -66,6 +67,7 @@ Here is another random paper I wrote, before USC:
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
 [math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
 
+[math.vid.hyperreals]: https://youtu.be/ArAjEq8uFvA
 [math.vid.finite]: https://youtu.be/oqcm5PT-fM8
 [math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
 [math.vid.bernstein]: https://youtu.be/IkoKttTDuxE
