@@ -9,9 +9,10 @@ Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy 
 
 I write software for [work][covera] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a toy [implementation][lambda] of the lambda calculus in Haskell. I also do freelance technical editing from time to time. Here are some books I edited:
 
+- [A Programmer's Introduction to Mathematics, 2nd ed][books.pim] by Jeremy Kun (2020)
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
 - [Professional Website Performance][books.properf] by Peter Smith (2012)
-- [Professional JavaScript for Web Developers, 3rd edition][books.projs] by Nicholas Zakas (2012)
+- [Professional JavaScript for Web Developers, 3rd ed][books.projs] by Nicholas Zakas (2012)
 - [JavaScript 24-Hour Trainer][books.js24hr] by Jeremy McPeak (2010)
 
 More information is available [here][linkedin].
@@ -57,6 +58,7 @@ Here is another random paper I wrote, before USC:
 [jshue]: http://github.com/blargoner/jshue
 [lambda]: http://github.com/blargoner/lambda
 
+[books.pim]: http://pimbook.org/
 [books.reliablejs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
 [books.properf]: http://shop.oreilly.com/product/9781118487525.do
 [books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
