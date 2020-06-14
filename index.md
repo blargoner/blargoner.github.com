@@ -22,13 +22,15 @@ More information is available [here][linkedin].
 I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore topics that interest me. Here are some expository papers I wrote:
 
 - [Explaining Y][math.y]
-- [Notes on Mathematics][math.notes]
 - [A Note on Function Notation][math.functions]
 - [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
 
 Here are some YouTube videos I made:
 
+- [Category Theory Part 3 of 3: Universal Properties][math.vid.cats.umps]
+- [Category Theory Part 2 of 3: Functors][math.vid.cats.funcs]
+- [Category Theory Part 1 of 3: Categories][math.vid.cats.cats]
 - [What is pi, anyway?][math.vid.pi]
 - [Hyperreal Numbers][math.vid.hyperreals]
 - [The Concept of Finiteness][math.vid.finite]
@@ -65,11 +67,13 @@ Here is another random paper I wrote, before USC:
 [books.js24hr]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
 
 [math.y]: https://github.com/blargoner/math-y/blob/master/y.pdf
-[math.notes]: https://github.com/blargoner/math-notes/blob/master/notes.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
 [math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
 
+[math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
+[math.vid.cats.funcs]: https://youtu.be/Jeod9jaV4iM
+[math.vid.cats.cats]: https://youtu.be/A9z0T7UmJIQ
 [math.vid.pi]: https://youtu.be/Tu0D8lbm2Uc
 [math.vid.hyperreals]: https://youtu.be/ArAjEq8uFvA
 [math.vid.finite]: https://youtu.be/oqcm5PT-fM8
