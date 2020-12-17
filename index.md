@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy 
 
 ## Software
 
-I write software for [work][covera] and [pleasure][github]. I particularly enjoy web development. I also do freelance technical editing from time to time. Here are some books I edited:
+I create software for [work][covera] and [pleasure][github]. I particularly enjoy web development. I also do freelance technical editing from time to time. Here are some books I edited:
 
 - [A Programmer's Introduction to Mathematics, 2nd ed][books.pim] by Jeremy Kun (2020)
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
