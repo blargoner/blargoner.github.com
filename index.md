@@ -7,7 +7,7 @@ Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy 
 
 ## Software
 
-I write software for [work][covera] and [pleasure][github]. I particularly enjoy web development. Recent projects include a JavaScript [library][jshue] for Philips Hue and a toy [implementation][lambda] of the lambda calculus in Haskell. I also do freelance technical editing from time to time. Here are some books I edited:
+I write software for [work][covera] and [pleasure][github]. I particularly enjoy web development. I also do freelance technical editing from time to time. Here are some books I edited:
 
 - [A Programmer's Introduction to Mathematics, 2nd ed][books.pim] by Jeremy Kun (2020)
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
@@ -41,30 +41,27 @@ Here are some YouTube videos I made:
 
 Once upon a time I thought I wanted to be a professional philosopher. Here are some short papers I wrote during a brief stint in graduate school at [USC][usc]:
 
-- [Paradoxes of Infinity][phil.infinite]
 - [Kripke on Rigid Designation][phil.kripke]
 - [Quine on Conventionalism][phil.quine]
 - [Tarski on Truth][phil.tarski]
 - [Frege on Existence][phil.frege]
+- [Paradoxes of Infinity][phil.infinite] (notes)
 
 Here is another random paper I wrote, before USC:
 
 - [Omniscience and Cosmological Arguments][phil.omniscience]
 
-[covera]: http://coverahealth.com/
-[github]: http://github.com/blargoner
-[linkedin]: http://linkedin.com/in/jpeloquin
-[ucb]: http://math.berkeley.edu/
-[usc]: http://dornsife.usc.edu/phil/
+[covera]: https://coverahealth.com/
+[github]: https://github.com/blargoner
+[linkedin]: https://linkedin.com/in/jpeloquin
+[ucb]: https://math.berkeley.edu/
+[usc]: https://dornsife.usc.edu/phil/
 
-[jshue]: http://github.com/blargoner/jshue
-[lambda]: http://github.com/blargoner/lambda
-
-[books.pim]: http://pimbook.org/
-[books.reliablejs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
-[books.properf]: http://shop.oreilly.com/product/9781118487525.do
-[books.projs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
-[books.js24hr]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
+[books.pim]: https://pimbook.org/
+[books.reliablejs]: https://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
+[books.properf]: https://www.oreilly.com/library/view/professional-website-performance/9781118551721/
+[books.projs]: https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
+[books.js24hr]: https://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
 
 [math.y]: https://github.com/blargoner/math-y/blob/master/y.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
@@ -80,9 +77,9 @@ Here is another random paper I wrote, before USC:
 [math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
 [math.vid.bernstein]: https://youtu.be/IkoKttTDuxE
 
-[phil.infinite]: papers/phil/infinite.pdf
 [phil.kripke]: papers/phil/kripke_designation.pdf
 [phil.quine]: papers/phil/quine_conventionalism.pdf
 [phil.tarski]: papers/phil/tarski_truth.pdf
 [phil.frege]: papers/phil/frege_existence.pdf
 [phil.omniscience]: papers/phil/omniscience.pdf
+[phil.infinite]: papers/phil/infinite.pdf
