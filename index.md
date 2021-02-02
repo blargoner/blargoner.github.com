@@ -19,7 +19,7 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore topics that interest me. Here are some expository papers I wrote:
+I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me. Here are some expository papers I wrote:
 
 - [Explaining Y][math.y]
 - [A Note on Function Notation][math.functions]
@@ -62,6 +62,8 @@ Here is another random paper I wrote, before USC:
 [books.properf]: https://www.oreilly.com/library/view/professional-website-performance/9781118551721/
 [books.projs]: https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026691.html
 [books.js24hr]: https://www.wiley.com/WileyCDA/WileyTitle/productCd-0470647833.html
+
+[math.se]: https://math.stackexchange.com/users/129912/blargoner
 
 [math.y]: https://github.com/blargoner/math-y/blob/master/y.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
