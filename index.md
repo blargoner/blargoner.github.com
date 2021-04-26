@@ -21,13 +21,13 @@ More information is available [here][linkedin].
 
 I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me. Here are some expository papers I wrote:
 
-- [Explaining Y][math.y]
 - [A Note on Function Notation][math.functions]
 - [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
 
 Here are some YouTube videos I made:
 
+- [Fixed-Point Theorems][math.vid.fixed]
 - [Category Theory Part 3 of 3: Universal Properties][math.vid.cats.umps]
 - [Category Theory Part 2 of 3: Functors][math.vid.cats.funcs]
 - [Category Theory Part 1 of 3: Categories][math.vid.cats.cats]
@@ -65,11 +65,11 @@ Here is another random paper I wrote, before USC:
 
 [math.se]: https://math.stackexchange.com/users/129912/blargoner
 
-[math.y]: https://github.com/blargoner/math-y/blob/master/y.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
 [math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
 
+[math.vid.fixed]: https://youtu.be/1BRf2LveEsY
 [math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
 [math.vid.cats.funcs]: https://youtu.be/Jeod9jaV4iM
 [math.vid.cats.cats]: https://youtu.be/A9z0T7UmJIQ
