@@ -27,6 +27,7 @@ I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [to
 
 Here are some YouTube videos I made:
 
+- [Duality in Linear Algebra][math.vid.duality]
 - [Fixed-Point Theorems][math.vid.fixed]
 - [Category Theory Part 3 of 3: Universal Properties][math.vid.cats.umps]
 - [Category Theory Part 2 of 3: Functors][math.vid.cats.funcs]
@@ -69,6 +70,7 @@ Here is another random paper I wrote, before USC:
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
 [math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
 
+[math.vid.duality]: https://youtu.be/eOIJzb7SItg
 [math.vid.fixed]: https://youtu.be/1BRf2LveEsY
 [math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
 [math.vid.cats.funcs]: https://youtu.be/Jeod9jaV4iM
