@@ -19,11 +19,9 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me. Here are some expository papers I wrote:
+I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me.
 
-- [A Note on Function Notation][math.functions]
-- [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
-- [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
+### Videos
 
 Here are some YouTube videos I made:
 
@@ -38,6 +36,31 @@ Here are some YouTube videos I made:
 - [The Frechet Derivative][math.vid.frechet]
 - [The Cantor-Schroeder-Bernstein Theorem][math.vid.bernstein]
 
+### Notes
+
+I have a habit of compiling notes and errata for math books. Here are some examples:
+
+- Undergraduate mathematics [notes][math.notes]
+- Awodey's *Category Theory* [notes][math.awodey.notes]
+- Cutland's *Computability* [notes][math.cutland.notes]
+- DePree and Swartz's *Introduction to Real Analysis* [notes][math.depree.notes] and [errata][math.depree.errata]
+- Dieudonne's *Foundations of Modern Analysis* [notes][math.dieudonne.analysis.notes] and [errata][math.dieudonne.analysis.errata]
+- Dieudonne's *Linear Algebra and Geometry* [notes][math.dieudonne.geometry.notes]
+- Dummit and Foote's *Abstract Algebra* [notes][math.dummit.notes]
+- Ebbinghaus's *Mathematical Logic* [notes][math.ebbinghaus.notes]
+- Greub's *Linear Algebra* and *Multilinear Algebra* [notes][math.greub.notes] and [errata][math.greub.errata]
+- Jech's *Set Theory* [notes][math.jech.notes]
+
+More are available [here][github.math].
+
+### Papers
+
+Here are some other expository papers I wrote:
+
+- [A Note on Function Notation][math.functions]
+- [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
+- [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
+
 ## Philosophy
 
 Once upon a time I thought I wanted to be a professional philosopher. Here are some short papers I wrote during a brief stint in graduate school at [USC][usc]:
@@ -48,12 +71,14 @@ Once upon a time I thought I wanted to be a professional philosopher. Here are s
 - [Frege on Existence][phil.frege]
 - [Paradoxes of Infinity][phil.infinite] (notes)
 
-Here is another random paper I wrote, before USC:
+Here are a few other papers I wrote, before USC:
 
 - [Omniscience and Cosmological Arguments][phil.omniscience]
+- [The Free Will Dilemma][phil.dilemma] (cited [here][phil.freedom])
 
 [covera]: https://coverahealth.com/
 [github]: https://github.com/blargoner
+[github.math]: https://github.com/blargoner?tab=repositories&q=math
 [linkedin]: https://linkedin.com/in/jpeloquin
 [ucb]: https://math.berkeley.edu/
 [usc]: https://dornsife.usc.edu/phil/
@@ -66,10 +91,6 @@ Here is another random paper I wrote, before USC:
 
 [math.se]: https://math.stackexchange.com/users/129912/blargoner
 
-[math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
-[math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
-[math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
-
 [math.vid.duality]: https://youtu.be/eOIJzb7SItg
 [math.vid.fixed]: https://youtu.be/1BRf2LveEsY
 [math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
@@ -81,9 +102,29 @@ Here is another random paper I wrote, before USC:
 [math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
 [math.vid.bernstein]: https://youtu.be/IkoKttTDuxE
 
+[math.notes]: https://github.com/blargoner/math-notes/blob/master/notes.pdf
+[math.awodey.notes]: https://github.com/blargoner/math-categories-awodey/blob/master/exercises.pdf
+[math.cutland.notes]: https://github.com/blargoner/math-computability-cutland/blob/master/exercises.pdf
+[math.depree.notes]: https://github.com/blargoner/math-analysis-depree/blob/master/exercises.pdf
+[math.depree.errata]: https://github.com/blargoner/math-analysis-depree-errata/blob/master/errata.pdf
+[math.dieudonne.analysis.notes]: https://github.com/blargoner/math-analysis-dieudonne/blob/master/exercises.pdf
+[math.dieudonne.analysis.errata]: https://github.com/blargoner/math-analysis-dieudonne-errata/blob/master/errata.pdf
+[math.dieudonne.geometry.notes]: https://github.com/blargoner/math-geometry-dieudonne/blob/master/exercises.pdf
+[math.dummit.notes]: https://github.com/blargoner/math-algebra-dummit/blob/master/exercises.pdf
+[math.ebbinghaus.notes]: https://github.com/blargoner/math-logic-ebbinghaus/blob/master/exercises.pdf
+[math.greub.notes]: https://github.com/blargoner/math-algebra-greub/blob/master/exercises.pdf
+[math.greub.errata]: https://github.com/blargoner/math-algebra-greub-errata/blob/master/errata.pdf
+[math.jech.notes]: https://github.com/blargoner/math-sets-jech/blob/master/exercises.pdf
+
+[math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
+[math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
+[math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
+
 [phil.kripke]: papers/phil/kripke_designation.pdf
 [phil.quine]: papers/phil/quine_conventionalism.pdf
 [phil.tarski]: papers/phil/tarski_truth.pdf
 [phil.frege]: papers/phil/frege_existence.pdf
-[phil.omniscience]: papers/phil/omniscience.pdf
 [phil.infinite]: papers/phil/infinite.pdf
+[phil.omniscience]: papers/phil/omniscience.pdf
+[phil.dilemma]: papers/phil/dilemma.pdf
+[phil.freedom]: https://plato.stanford.edu/entries/divine-freedom/
