@@ -25,7 +25,8 @@ I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [to
 
 Here are some YouTube videos I made:
 
-- [Determinants and Volume][math.vid.dets]
+- [Determinants of Linear Maps][math.vid.dets.maps]
+- [Determinants and Volume][math.vid.dets.vol]
 - [Duality in Linear Algebra][math.vid.duality]
 - [Fixed-Point Theorems][math.vid.fixed]
 - [Category Theory Part 3 of 3: Universal Properties][math.vid.cats.umps]
@@ -92,7 +93,8 @@ Here are a few other papers I wrote, before USC:
 
 [math.se]: https://math.stackexchange.com/users/129912/blargoner
 
-[math.vid.dets]: https://youtu.be/9IswLDsEWFk
+[math.vid.dets.maps]: https://youtu.be/98-hH8aGMoU
+[math.vid.dets.vol]: https://youtu.be/9IswLDsEWFk
 [math.vid.duality]: https://youtu.be/eOIJzb7SItg
 [math.vid.fixed]: https://youtu.be/1BRf2LveEsY
 [math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
