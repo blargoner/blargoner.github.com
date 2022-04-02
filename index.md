@@ -25,6 +25,7 @@ I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [to
 
 Here are some YouTube videos I made:
 
+- [The Cross Product][math.vid.cross]
 - [The Magic of the Gramian][math.vid.dets.grammy]
 - [Determinants of Matrices][math.vid.dets.mats]
 - [Determinants of Linear Maps][math.vid.dets.maps]
@@ -95,6 +96,7 @@ Here are a few other papers I wrote, before USC:
 
 [math.se]: https://math.stackexchange.com/users/129912/blargoner
 
+[math.vid.cross]: https://youtu.be/z2g5Mfyi48c
 [math.vid.dets.grammy]: https://youtu.be/IOrqUQscNOQ
 [math.vid.dets.mats]: https://youtu.be/QF-Q9WfW82o
 [math.vid.dets.maps]: https://youtu.be/98-hH8aGMoU
