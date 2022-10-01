@@ -3,11 +3,11 @@ layout: default
 title: blargon
 ---
 
-Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy eating food and listening to garbage trucks. Sometimes I am mistaken for a pelican.
+Hello, visitor. My name is John Peloquin. I live in New York City where I enjoy eating overpriced food and listening to garbage trucks. Sometimes I am mistaken for a pelican.
 
-## Software
+## Technology
 
-I create software for [work][covera] and [pleasure][github]. I particularly enjoy web development. I also do freelance technical editing from time to time. Here are some books I edited:
+I [work][covera] and [play][github] with technology. I also do freelance technical editing from time to time. Here are some books I edited:
 
 - [A Programmer's Introduction to Mathematics, 2nd ed][books.pim] by Jeremy Kun (2020)
 - [Reliable JavaScript][books.reliablejs] by Larry Spencer and Seth Richards (2015)
@@ -32,6 +32,7 @@ Here are some YouTube videos I made:
 - [Determinants and Volume][math.vid.dets.vol]
 - [Duality in Linear Algebra][math.vid.duality]
 - [Fixed-Point Theorems][math.vid.fixed]
+- [Category Theory Part 4 of 3: Natural Transformations][math.vid.cats.nats]
 - [Category Theory Part 3 of 3: Universal Properties][math.vid.cats.umps]
 - [Category Theory Part 2 of 3: Functors][math.vid.cats.funcs]
 - [Category Theory Part 1 of 3: Categories][math.vid.cats.cats]
@@ -103,6 +104,7 @@ Here are a few other papers I wrote, before USC:
 [math.vid.dets.vol]: https://youtu.be/9IswLDsEWFk
 [math.vid.duality]: https://youtu.be/eOIJzb7SItg
 [math.vid.fixed]: https://youtu.be/1BRf2LveEsY
+[math.vid.cats.nats]: https://youtu.be/4-W-nC1lWxg
 [math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
 [math.vid.cats.funcs]: https://youtu.be/Jeod9jaV4iM
 [math.vid.cats.cats]: https://youtu.be/A9z0T7UmJIQ
