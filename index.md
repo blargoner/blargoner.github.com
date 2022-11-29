@@ -19,32 +19,26 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math as an undergraduate at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me.
+I studied math at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me.
 
 ### Videos
 
 Here are some YouTube videos I made:
 
-- [The Cross Product][math.vid.cross]
-- [The Magic of the Gramian][math.vid.dets.grammy]
-- [Determinants of Matrices][math.vid.dets.mats]
-- [Determinants of Linear Maps][math.vid.dets.maps]
-- [Determinants and Volume][math.vid.dets.vol]
-- [Duality in Linear Algebra][math.vid.duality]
+- [Determinants][math.vid.dets] (series)
+- [Linear Algebra][math.vid.linear] (series)
+- [Category Theory][math.vid.cats] (series)
 - [Fixed-Point Theorems][math.vid.fixed]
-- [Category Theory Part 4 of 3: Natural Transformations][math.vid.cats.nats]
-- [Category Theory Part 3 of 3: Universal Properties][math.vid.cats.umps]
-- [Category Theory Part 2 of 3: Functors][math.vid.cats.funcs]
-- [Category Theory Part 1 of 3: Categories][math.vid.cats.cats]
-- [What is pi, anyway?][math.vid.pi]
 - [Hyperreal Numbers][math.vid.hyperreals]
 - [The Concept of Finiteness][math.vid.finite]
 - [The Frechet Derivative][math.vid.frechet]
 - [The Cantor-Schroeder-Bernstein Theorem][math.vid.bernstein]
 
+More are available [here][youtube].
+
 ### Notes
 
-I have a habit of compiling notes and errata for math books. Here are some examples:
+I have a habit of compiling notes and errata for math books. I send the errata to the authors if they are still alive. They are usually not upset. Here are some examples:
 
 - Undergraduate mathematics [notes][math.notes]
 - Awodey's *Category Theory* [notes][math.awodey.notes]
@@ -69,7 +63,7 @@ Here are some other expository papers I wrote:
 
 ## Philosophy
 
-Once upon a time I thought I wanted to be a professional philosopher. Here are some short papers I wrote during a brief stint in graduate school at [USC][usc]:
+Once upon a time I thought I wanted to be a professional philosopher. Here are some topics I enjoyed thinking about during a brief stint in graduate school at [USC][usc]:
 
 - [Kripke on Rigid Designation][phil.kripke]
 - [Quine on Conventionalism][phil.quine]
@@ -82,10 +76,12 @@ Here are a few other papers I wrote, before USC:
 - [Omniscience and Cosmological Arguments][phil.omniscience]
 - [The Free Will Dilemma][phil.dilemma] (cited [here][phil.freedom])
 
-[covera]: https://coverahealth.com/
 [github]: https://github.com/blargoner
 [github.math]: https://github.com/blargoner?tab=repositories&q=math
+[youtube]: https://youtube.com/blargoner
 [linkedin]: https://linkedin.com/in/jpeloquin
+
+[covera]: https://coverahealth.com/
 [ucb]: https://math.berkeley.edu/
 [usc]: https://dornsife.usc.edu/phil/
 
@@ -97,18 +93,10 @@ Here are a few other papers I wrote, before USC:
 
 [math.se]: https://math.stackexchange.com/users/129912/blargoner
 
-[math.vid.cross]: https://youtu.be/z2g5Mfyi48c
-[math.vid.dets.grammy]: https://youtu.be/IOrqUQscNOQ
-[math.vid.dets.mats]: https://youtu.be/QF-Q9WfW82o
-[math.vid.dets.maps]: https://youtu.be/98-hH8aGMoU
-[math.vid.dets.vol]: https://youtu.be/9IswLDsEWFk
-[math.vid.duality]: https://youtu.be/eOIJzb7SItg
+[math.vid.dets]: https://youtube.com/playlist?list=PL6kPvEdcJ4jRctd2ZzgFw_XX2OKGtdw5P
+[math.vid.linear]: https://youtube.com/playlist?list=PL6kPvEdcJ4jRnw91XCtlK4UHRHxc0TtsV
+[math.vid.cats]: https://youtube.com/playlist?list=PL6kPvEdcJ4jTXsLMBy-1E8CIalh5DCc6B
 [math.vid.fixed]: https://youtu.be/1BRf2LveEsY
-[math.vid.cats.nats]: https://youtu.be/4-W-nC1lWxg
-[math.vid.cats.umps]: https://youtu.be/bPvWEN8UGuo
-[math.vid.cats.funcs]: https://youtu.be/Jeod9jaV4iM
-[math.vid.cats.cats]: https://youtu.be/A9z0T7UmJIQ
-[math.vid.pi]: https://youtu.be/Tu0D8lbm2Uc
 [math.vid.hyperreals]: https://youtu.be/ArAjEq8uFvA
 [math.vid.finite]: https://youtu.be/oqcm5PT-fM8
 [math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
