@@ -57,6 +57,7 @@ More are available [here][github.math].
 
 Here are some other expository papers I wrote:
 
+- [Mixed up with Cayley and Hamilton][math.cayleyhamilton] (draft)
 - [A Note on Function Notation][math.functions]
 - [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
@@ -116,6 +117,7 @@ Here are a few other papers I wrote, before USC:
 [math.greub.errata]: https://github.com/blargoner/math-algebra-greub-errata/blob/master/errata.pdf
 [math.jech.notes]: https://github.com/blargoner/math-sets-jech/blob/master/exercises.pdf
 
+[math.cayleyhamilton]: https://github.com/blargoner/math-cayley-hamilton/blob/main/cayleyhamilton.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
 [math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
