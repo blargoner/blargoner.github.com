@@ -38,7 +38,7 @@ More are available [here][youtube].
 
 ### Notes
 
-I have a habit of compiling notes and errata for math books. I send the errata to the authors if they are still alive. They are usually not upset. Here are some examples:
+I have a habit of compiling notes and errata for math books. I send the errata to the authors if they are still alive, and they are usually not upset. Here are some examples:
 
 - Undergraduate mathematics [notes][math.notes]
 - Awodey's *Category Theory* [notes][math.awodey.notes]
@@ -58,6 +58,7 @@ More are available [here][github.math].
 Here are some other expository papers I wrote:
 
 - [Mixed up with Cayley and Hamilton][math.cayleyhamilton] (draft)
+- [Abstract Nonsense: A Glance at Category Theory][math.categories]
 - [A Note on Function Notation][math.functions]
 - [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
 - [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
@@ -118,6 +119,7 @@ Here are a few other papers I wrote, before USC:
 [math.jech.notes]: https://github.com/blargoner/math-sets-jech/blob/master/exercises.pdf
 
 [math.cayleyhamilton]: https://github.com/blargoner/math-cayley-hamilton/blob/main/cayleyhamilton.pdf
+[math.categories]: https://github.com/blargoner/math-categories/blob/main/categories.pdf
 [math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
 [math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
 [math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
