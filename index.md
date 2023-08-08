@@ -19,7 +19,7 @@ More information is available [here][linkedin].
 
 ## Mathematics
 
-I studied math at [Berkeley][ucb]. I continue to explore [topics][math.se] that interest me.
+I studied math at [Berkeley][ucb] and continue to explore [topics][math.se] that interest me.
 
 ### Videos
 
@@ -35,6 +35,16 @@ Here are some YouTube videos I made:
 - [The Cantor-Schroeder-Bernstein Theorem][math.vid.bernstein]
 
 More are available [here][youtube].
+
+### Papers
+
+Here are some expository papers I wrote:
+
+- [Mixed up with Cayley and Hamilton][math.cayleyhamilton] (draft)
+- [Abstract Nonsense: A Glance at Category Theory][math.categories]
+- [A Note on Function Notation][math.functions]
+- [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
+- [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
 
 ### Notes
 
@@ -52,16 +62,6 @@ I have a habit of compiling notes and errata for math books. I send the errata t
 - Jech's *Set Theory* [notes][math.jech.notes]
 
 More are available [here][github.math].
-
-### Papers
-
-Here are some other expository papers I wrote:
-
-- [Mixed up with Cayley and Hamilton][math.cayleyhamilton] (draft)
-- [Abstract Nonsense: A Glance at Category Theory][math.categories]
-- [A Note on Function Notation][math.functions]
-- [Zorn's Bowels: The Mechanics of Choice and Recursion][math.zorn]
-- [Ehrenfeucht's Game-Theoretic Characterization of First-Order Elementary Equivalence][math.ehrenfeucht]
 
 ## Philosophy
 
@@ -104,6 +104,12 @@ Here are a few other papers I wrote, before USC:
 [math.vid.frechet]: https://youtu.be/52AtbAkQ6MU
 [math.vid.bernstein]: https://youtu.be/IkoKttTDuxE
 
+[math.cayleyhamilton]: https://github.com/blargoner/math-cayley-hamilton/blob/main/cayleyhamilton.pdf
+[math.categories]: https://github.com/blargoner/math-categories/blob/main/categories.pdf
+[math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
+[math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
+[math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
+
 [math.notes]: https://github.com/blargoner/math-notes/blob/master/notes.pdf
 [math.awodey.notes]: https://github.com/blargoner/math-categories-awodey/blob/master/exercises.pdf
 [math.cutland.notes]: https://github.com/blargoner/math-computability-cutland/blob/master/exercises.pdf
@@ -117,12 +123,6 @@ Here are a few other papers I wrote, before USC:
 [math.greub.notes]: https://github.com/blargoner/math-algebra-greub/blob/master/exercises.pdf
 [math.greub.errata]: https://github.com/blargoner/math-algebra-greub-errata/blob/master/errata.pdf
 [math.jech.notes]: https://github.com/blargoner/math-sets-jech/blob/master/exercises.pdf
-
-[math.cayleyhamilton]: https://github.com/blargoner/math-cayley-hamilton/blob/main/cayleyhamilton.pdf
-[math.categories]: https://github.com/blargoner/math-categories/blob/main/categories.pdf
-[math.functions]: https://github.com/blargoner/math-functions/blob/master/groupactions.pdf
-[math.zorn]: https://github.com/blargoner/math-zorn/blob/master/zorn.pdf
-[math.ehrenfeucht]: https://github.com/blargoner/math-ehrenfeucht/blob/master/ehrenfeucht.pdf
 
 [phil.kripke]: papers/phil/kripke_designation.pdf
 [phil.quine]: papers/phil/quine_conventionalism.pdf
