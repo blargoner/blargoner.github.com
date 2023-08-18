@@ -25,9 +25,9 @@ I studied math at [Berkeley][ucb] and continue to explore [topics][math.se] that
 
 Here are some YouTube videos I made:
 
-- [Determinants][math.vid.dets] (series)
-- [Linear Algebra][math.vid.linear] (series)
 - [Category Theory][math.vid.cats] (series)
+- [Linear and Multilinear Algebra][math.vid.linear] (series)
+- [Determinants][math.vid.dets] (series)
 - [Fixed-Point Theorems][math.vid.fixed]
 - [Hyperreal Numbers][math.vid.hyperreals]
 - [The Concept of Finiteness][math.vid.finite]
@@ -95,9 +95,9 @@ Here are a few other papers I wrote, before USC:
 
 [math.se]: https://math.stackexchange.com/users/129912/blargoner
 
-[math.vid.dets]: https://youtube.com/playlist?list=PL6kPvEdcJ4jRctd2ZzgFw_XX2OKGtdw5P
-[math.vid.linear]: https://youtube.com/playlist?list=PL6kPvEdcJ4jRnw91XCtlK4UHRHxc0TtsV
 [math.vid.cats]: https://youtube.com/playlist?list=PL6kPvEdcJ4jTXsLMBy-1E8CIalh5DCc6B
+[math.vid.linear]: https://youtube.com/playlist?list=PL6kPvEdcJ4jRnw91XCtlK4UHRHxc0TtsV
+[math.vid.dets]: https://youtube.com/playlist?list=PL6kPvEdcJ4jRctd2ZzgFw_XX2OKGtdw5P
 [math.vid.fixed]: https://youtu.be/1BRf2LveEsY
 [math.vid.hyperreals]: https://youtu.be/ArAjEq8uFvA
 [math.vid.finite]: https://youtu.be/oqcm5PT-fM8
