@@ -65,16 +65,9 @@ More are available [here][github.math].
 
 ## Philosophy
 
-Once upon a time I thought I wanted to be a professional philosopher. Here are some topics I enjoyed thinking about during a brief stint in graduate school at [USC][usc]:
+Once upon a time I thought I wanted to be a professional philosopher. Here are some topics I enjoyed thinking about in the past:
 
-- [Kripke on Rigid Designation][phil.kripke]
-- [Quine on Conventionalism][phil.quine]
-- [Tarski on Truth][phil.tarski]
-- [Frege on Existence][phil.frege]
 - [Paradoxes of Infinity][phil.infinite] (notes)
-
-Here are a few other papers I wrote, before USC:
-
 - [Omniscience and Cosmological Arguments][phil.omniscience]
 - [The Free Will Dilemma][phil.dilemma] (cited [here][phil.freedom])
 
@@ -85,7 +78,6 @@ Here are a few other papers I wrote, before USC:
 
 [covera]: https://coverahealth.com/
 [ucb]: https://math.berkeley.edu/
-[usc]: https://dornsife.usc.edu/phil/
 
 [books.pim]: https://pimbook.org/
 [books.reliablejs]: https://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html
@@ -124,10 +116,6 @@ Here are a few other papers I wrote, before USC:
 [math.greub.errata]: https://github.com/blargoner/math-algebra-greub-errata/blob/master/errata.pdf
 [math.jech.notes]: https://github.com/blargoner/math-sets-jech/blob/master/exercises.pdf
 
-[phil.kripke]: papers/phil/kripke_designation.pdf
-[phil.quine]: papers/phil/quine_conventionalism.pdf
-[phil.tarski]: papers/phil/tarski_truth.pdf
-[phil.frege]: papers/phil/frege_existence.pdf
 [phil.infinite]: papers/phil/infinite.pdf
 [phil.omniscience]: papers/phil/omniscience.pdf
 [phil.dilemma]: papers/phil/dilemma.pdf
