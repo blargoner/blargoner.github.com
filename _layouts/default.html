@@ -3,57 +3,25 @@
     <head>
         <meta charset="utf-8" />
         <title>{{ page.title }}</title>
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
-        <link rel="stylesheet" type="text/css" href="css/combo.css" />
         <style type="text/css">
             html {
-                height:100%;
-                background:#efefef;
+                height: 100%;
             }
             body {
-                height:100%;
-                font-family: 'Open Sans', sans-serif;
-                color:#555;
-            }
-            h1, h2, h3 {
-                text-transform: lowercase;
-            }
-            h2 {
-                padding-bottom: 0.5em;
-                border-bottom: 1px solid #ccc;
-            }
-            .outer {
-                -moz-box-sizing:border-box;
-                box-sizing:border-box;
-                width:640px;
-                min-height:100%;
-                margin:0 auto;
-                border-left:1px solid #ccc;
-                border-right:1px solid #ccc;
-                padding:1em 2em;
-                background:#fff;
-                box-shadow:0 0 10px #aaa;
-            }
-            .pelican {
-                text-align:center;
-                margin-bottom:10px;
-            }
-            .copyright {
-                text-align:center;
+                display: flex;
+                height: 100%;
+                align-items: center;
+                justify-content: center;
+                background: #faf6e9;
             }
         </style>
     </head>
     <body>
-        <div class="outer">
-            <header>
-                <div class="pelican"><img src="images/pelican.png" width="259" height="340" alt="thinking pelican" /></div>
-            </header>
-            <div class="content">
-                {{ content }}
-            </div>
-            <footer>
-                <p class="copyright"><small>Copyright &copy; {{ site.time | date: '%Y' }} John Peloquin. All rights reserved.</small></p>
-            </footer>
+        <header>
+            <img src="images/pelican.png" width="259" height="340" alt="thinking pelican" />
+        </header>
+        <div class="content">
+            {{ content }}
         </div>
     </body>
 </html>
